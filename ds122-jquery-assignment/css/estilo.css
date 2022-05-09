@@ -1,0 +1,25 @@
+#caixaPrincipal {
+    margin: 200px auto;
+    background-color: #add8e6;
+    border: solid 1px black;
+    height: 280px;
+    width: 480px;
+    padding: 20px;
+    padding-top:10px;
+    height: auto;
+}
+
+.headers {
+    font-family: sans-serif;
+    text-shadow: 0.01px 0 black;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+li {
+    font-size: 20px;
+}

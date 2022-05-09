@@ -1,0 +1,31 @@
+#principal {
+    padding: 10px;
+    margin: 0 auto;
+    border: 1px black solid;
+    width: 600px;
+}
+
+#texto {
+    margin: 0 auto;
+    width: 150px;
+}
+
+#div-botao {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#mostrar li {
+    list-style-type: none;
+    text-align: center;
+    margin-bottom: 3px;
+}
+
+li span {
+    font-size: 50px;
+    border: 1px solid black;
+    padding: 2px;
+    margin-bottom: 3px;
+    font-family: sans-serif;
+    font-variant: small-caps;
+}

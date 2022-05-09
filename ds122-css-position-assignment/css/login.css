@@ -1,0 +1,76 @@
+body {
+    background-color: #202123;
+}
+
+form {
+    background-color: #36393f;
+    background-image: url('../images/lycan.png');
+    background-position: -170px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFBE6;
+    text-align: center;
+    border: 2px groove black;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 14%;
+    display: block;
+    padding: 60px;
+    border-radius: 7px;
+    font-variant: small-caps;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+input {
+    color: black;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+
+.inputs {
+    width: 250px;
+    border-radius: 5px;
+    border: 2px outset black;
+    margin-bottom: -20px;
+}
+
+.login {
+    height: 35px;
+    width: 60px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-size: 15px;
+    background-color: #7289da;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    margin-right: 200px;
+    margin-bottom: -14px;
+}
+
+
+#registro {
+    font-variant: normal;
+    width: 450px;
+    height: 0px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: -40px;
+    padding-top: 20px;
+    margin-left: -180px;
+    font-weight: 350;
+}
+
+
+a:link {
+    color: rgb(35, 111, 197);
+}
+
+a:visited{
+    color: rgb(159, 44, 253);
+}
